@@ -7,3 +7,7 @@
 ## Exercise 2:
 
 ![image](https://github.com/m-mourouh/TP2-JAVA-OOP/assets/60442896/ebe15f47-f1d6-4f05-bdad-b39cd1fe0f89)
+
+## Exercise 3:
+
+![image](https://github.com/m-mourouh/TP2-JAVA-OOP/assets/60442896/172754f5-b637-4f6b-bb18-e7d5d5b0ad49)
