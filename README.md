@@ -4,7 +4,7 @@
 
 ![image](https://github.com/m-mourouh/TP2-JAVA-OOP/assets/60442896/431ee28a-1e93-4b08-83b5-f972f3283a63)
 
-## Exercise 1: 
+## Exercise 2: 
 
 ![image](https://github.com/m-mourouh/TP2-JAVA-OOP/assets/60442896/971ff303-27d4-45d3-a1f1-9cbe10bcbd4b)
 
