@@ -1,3 +1,5 @@
+![Static Badge](https://img.shields.io/badge/Java-17-orange)
+
 # TP2 : Java Advanced | Static Members, Inheritance, Overriding, Polymorphism
 
 ## Exercise 1: 
